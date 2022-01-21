@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EvanK-CC
 - 👀 I’m interested in TwinCAT Structured Text programming
-- 🌱 I’m currently learning remote agile team workflow
+- 🌱 I’m currently learning remote team workflow
 - 💞️ I’m looking to collaborate on how to manage project scope
 - 📫 evan@criticalclimates.com
